@@ -29,7 +29,7 @@
 1. 파일 클론 받기
 
 ```
-git clone https://github.com/cotton-cotton/wanted_pre_onboarding_hodoolabs.git
+git clone https://github.com/Ho0on/wanted_pre_onboarding_hodoolabs.git
 ```
 
 2. 패키지 설치

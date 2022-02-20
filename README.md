@@ -7,7 +7,7 @@
 
 ## 🚀 배포 주소
 
-[🔗 데모 링크] (https://wanted-hodoolabs.vercel.app/)
+[🔗 데모 링크](https://wanted-hodoolabs.vercel.app/)
 
 ## ✅ 과제 구현 목록
 
